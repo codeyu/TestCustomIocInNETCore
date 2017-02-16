@@ -1,0 +1,1 @@
+## Test Custom Ioc in .NET Core
